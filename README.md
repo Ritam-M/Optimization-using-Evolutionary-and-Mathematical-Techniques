@@ -6,6 +6,6 @@ We implemented the following Evolutionary Algorithms: TLBO, PSO, and used extern
 
 I am yet to add the following results for the following Algorithms:
 1. Mine Blast Algorithm, Ray Algorithm
-2. TLBO-PSO: A hybrid algorithm to overcome the drawbacks of TLBO where Teacher learning is same as the population.
+2. TLBO-PSO: A hybrid algorithm to overcome the drawbacks of TLBO where Teacher learning is same as the mean of the population.
 3. Artificial Bee Colony.
 4. Sea-Lion Algorithm.
