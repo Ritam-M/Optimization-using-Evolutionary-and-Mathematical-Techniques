@@ -4,7 +4,6 @@ This repo consists of Implementations of Evolutionary Methods and Mathematical M
 We used Marquartz Method coupled with Single direction Golden Search method to arrive at the Global Optimal Solution. We use Bracket-Penalty function to penalize Constraint Violation. Refer to attached report regarding the details.
 We implemented the following Evolutionary Algorithms: TLBO, PSO, and used external implementations for DE and ACO.
 
-Matlab files for Marquartz+Golden Search is present in the Zip file.
 
 Additional results for the following Algorithms will be updated soon:
 1. Mine Blast Algorithm, Ray Algorithm
